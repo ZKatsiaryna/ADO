@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AdoPart2.exe.config
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AdoPart2.exe
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AdoPart2.pdb
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AutoMapper.dll
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AutoMapper.pdb
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\AutoMapper.xml
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\obj\Debug\AdoPart2.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\obj\Debug\AdoPart2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\obj\Debug\AdoPart2.csproj.CopyComplete
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\obj\Debug\AdoPart2.exe
+C:\Users\User\Source\Repos\AdoPart2\AdoPart2\obj\Debug\AdoPart2.pdb
